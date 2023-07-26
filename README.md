@@ -12,4 +12,4 @@ Tecnologias utilizadas:
 - Swagger UI
 - MySQL
 
-Antes de executar a aplicação pela primeira vez, é necessário rodar o arquivo DDL.sql no MySQL e, em seguida, iniciar a aplicação utilizando o Java 17.
+Antes de executar a aplicação pela primeira vez, é necessário rodar o arquivo DDL.sql(https://github.com/vinisoyza/DepartamentoPessoal/blob/master/src/main/resources/DDL/DDL.sql) no MySQL e, em seguida, iniciar a aplicação utilizando o Java 17.
