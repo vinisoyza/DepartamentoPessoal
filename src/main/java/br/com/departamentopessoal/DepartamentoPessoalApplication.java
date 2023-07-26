@@ -33,7 +33,7 @@ public class DepartamentoPessoalApplication {
     private ApiInfo apiInfo() {
         return new ApiInfoBuilder()
                 .title("Departamento Pessoal em Spring Boot REST API")
-                .description("Uma aplicação para o gerenciamento de departamento pessoal para a inserção, exclusão, listagem e atualização de pessoas")
+                .description("Aplicação de gerenciamento de departamento pessoal para inserção, exclusão, listagem e atualização de pessoas.")
                 .version("1.0.0")
                 .license("Apache License Version 2.0")
                 .licenseUrl("https://www.apache.org/licenses/LICENSE-2.0")
